@@ -7,7 +7,7 @@ It is deployed on netlify.
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone https://github.com/your-username/typing-practice-app.git`
+1. Clone the repository: `git clone https://github.com/neerajcode34/chaabi_touch_typing.git`
 2. Navigate to the project directory: `cd chaabi_touch_typing`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -23,7 +23,5 @@ It is deployed on netlify.
 - Restart functionality
 - Responsive design
 
-## Contributing
 
-Contributions are welcome! Please create a pull request for any suggestions or improvements.
 
